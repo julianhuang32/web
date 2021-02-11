@@ -1,0 +1,19 @@
+body { 
+	background-color: gray;
+	}
+ul {
+  font-size: 150%;
+  color: blue;
+}
+
+p {
+font-size: 150%;
+}
+
+h2 {
+font-size: 300%;
+}
+h3{
+font-size: 200%;
+border: thick double black;
+}
