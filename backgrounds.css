@@ -18,15 +18,11 @@ font-family: "Times New Roman", Times, serif;
 */
 /* CONTENT ON SUBPAGES */
 .content{
-    display: float;
-    text-align: center;
-    background-color: light-blue;
-    border: thick solid black;
-    border-style: double ;
+    background-color: rgb(207,232,220);
+    border: 2px solid rgb(79,185,227);
     padding: 10px;
-    border-radius: 100px;
-    margin: 50px;
-    
+    margin: 10px;
+    border-radius: 5px;
 
 }
 /* TEXT ON MAINPAGE */
