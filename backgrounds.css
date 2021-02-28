@@ -5,26 +5,29 @@ font-size: 150%;
 font-family: "Times New Roman", Times, serif;
 text-align: center;
 }
-/*
-h2 {
-font-size: 300%;
-font-family: "Times New Roman", Times, serif;
-}
-h3{
-font-size: 200%;
-border: thick double black;
-font-family: "Times New Roman", Times, serif;
-}
 */
 /* CONTENT ON SUBPAGES */
 .content{
-    background-color: rgb(207,232,220);
-    border: 2px solid rgb(79,185,227);
-    padding: 10px;
-    margin: 10px;
-    border-radius: 5px;
+    display: grid;
+    grid-template-column: 1fr;
+    grid-gap:500px;
+    
 
 }
+.hoststar{
+grid-row:1;
+}
+.massdensity{
+grid-row:2;
+    
+}
+.atmospheretemp{
+grid-row: 3;
+}
+.Stability{
+grid-row: 4;
+}
+
 /* TEXT ON MAINPAGE */
 .mainpage{
 
