@@ -8,11 +8,12 @@ text-align: center;
 */
 /* CONTENT ON SUBPAGES */
 .content{
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-gap:500px;
-    background-color: blue;
-    
+   display: float;
+    text-align: center;
+    background-color: light-blue;
+    border: thick solid black;
+    border-style: double ;
+    padding: 10px;
 
 }
 
