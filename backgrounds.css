@@ -13,6 +13,7 @@ text-align: center;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-gap:100px;
+    background-color ; light-blue ;
 
 
 }
