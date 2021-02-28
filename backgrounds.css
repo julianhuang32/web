@@ -20,19 +20,22 @@ text-align: center;
 .hoststar{
 grid-column: 1;
 grid-row:1;
+background-color ; light-blue ;    
 }
 .massdensity{
 grid-column: 1;
 grid-row:2;
-    
+background-color ; light-blue ;    
 }
 .atmospheretemp{
 grid-column: 1;
 grid-row: 3;
+background-color ; light-blue ;
 }
 .Stability{
 grid-column: 1;
 grid-row: 4;
+background-color ; light-blue ;
 }
 /* TEXT ON MAINPAGE */
 .mainpage{
