@@ -9,15 +9,30 @@ text-align: center;
 /* CONTENT ON SUBPAGES */
 .content{
     
-    text-align: center;
-    background-color: light-blue;
-    border: thick solid black;
-    border-style: double ;
-    padding: 10px;
-    margin: 100px;
+  display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-gap:500px;
+
+
 }
-
-
+.hoststar{
+grid-column: 1;
+grid-row:1;
+}
+.massdensity{
+grid-column: 1;
+grid-row:2;
+    
+}
+.atmospheretemp{
+grid-column: 1;
+grid-row: 3;
+}
+.Stability{
+grid-column: 1;
+grid-row: 4;
+}
 /* TEXT ON MAINPAGE */
 .mainpage{
 
