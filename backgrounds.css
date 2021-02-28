@@ -8,7 +8,7 @@ text-align: center;
 */
 /* CONTENT ON SUBPAGES */
 .content{
-   display: float;
+    
     text-align: center;
     background-color: light-blue;
     border: thick solid black;
