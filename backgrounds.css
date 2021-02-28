@@ -1,10 +1,11 @@
 
-/*
+
 p {
 font-size: 150%;
 font-family: "Times New Roman", Times, serif;
+text-align: center;
 }
-
+/*
 h2 {
 font-size: 300%;
 font-family: "Times New Roman", Times, serif;
@@ -36,12 +37,7 @@ padding: 20px 20px 20px 20px;
 font-family: "Times New Roman", Times, serif;
 font-size: 300%;
 
-p{
-text-align:center;
-font-size: 150%;
-font-family: "Times New Roman", Times, serif;
-    
-    }
+
 }
 /*FORMATTING THE LINKS TO SUBPAGES */
 .Subpages {
