@@ -24,7 +24,17 @@ border: thick double black;
 font-family: "Times New Roman", Times, serif;
 }
 */
+/* CONTENT ON SUBPAGES */
+.content{
+body {
+    background-color: rgb(207,232,220);
+    border: 2px solid 
+    border-style: double;
+    padding: 10px;
+    border-radius: 100px;
+}
 
+/* TEXT ON MAINPAGE */
 .mainpagetext{
 h1{
 text-align:center;
@@ -41,6 +51,7 @@ font-size: 150%;
 font-family: "Times New Roman", Times, serif;
 }
 }
+/*FORMATTING THE LINKS TO SUBPAGES */
 .Subpages {
 display: flex;
 padding-top: 100px;
