@@ -18,8 +18,9 @@ font-family: "Times New Roman", Times, serif;
 */
 /* CONTENT ON SUBPAGES */
 .content{
-
-    background-color: white;
+    display: float;
+    text-align: center;
+    background-color: light-blue;
     border: thick solid black;
     border-style: double ;
     padding: 10px;
