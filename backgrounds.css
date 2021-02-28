@@ -15,23 +15,7 @@ text-align: center;
     
 
 }
-.hoststar{
-grid-column: 1;
-grid-row:1;
-}
-.massdensity{
-grid-column: 1;
-grid-row:2;
-    
-}
-.atmospheretemp{
-grid-column: 1;
-grid-row: 3;
-}
-.Stability{
-grid-column: 1;
-grid-row: 4;
-}
+
 
 /* TEXT ON MAINPAGE */
 .mainpage{
