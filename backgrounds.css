@@ -18,12 +18,14 @@ font-family: "Times New Roman", Times, serif;
 */
 /* CONTENT ON SUBPAGES */
 .content{
-p {
+p , li {
     background-color: white;
-    border: 2px solid;
-    border-style: double;
+    border: thick solid black;
+    border-style: double ;
     padding: 10px;
     border-radius: 100px;
+    margin: 50px;
+    
 }
 }
 /* TEXT ON MAINPAGE */
