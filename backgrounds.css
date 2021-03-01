@@ -1,5 +1,4 @@
 nav {
-    display: flex;
 padding-top: 100px;
 padding-left: 80px;
 padding-bottom: 117px;
@@ -17,12 +16,9 @@ font-size: 125%;
     list-style-type: none;
 }
 
-.homemenu {
-    display: inline-block;
-}
 .homemenu a::after {
     display: inline-block;
-    color: #000;
+    color: WHITE;
     content: '>';
     font-size: 80%;
     font-weight: bold;
