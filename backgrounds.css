@@ -1,7 +1,18 @@
 nav {
-    border-bottom: 1px solid black;
-}
+    display: flex;
+padding-top: 100px;
+padding-left: 80px;
+padding-bottom: 117px;
+border: white;
+border-style: inset;
+border-width: 50px;
+border-length: 50%;
 
+font-family: Monaco, Monospace;
+font-size: 125%;
+
+
+}
 .homemenus ul {
     list-style-type: none;
     padding-left: 0;
