@@ -2,7 +2,14 @@
     display: flex;
 }
 .tomenu{
-    display: flex;
+    display: fixed;
+    top: 30px;
+    left: 30px;
+}
+.tomenus{
+    display:fixed;
+    top: 30px;
+    left: 30px;
 }
 nav {
    display: flex;
