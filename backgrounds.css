@@ -1,10 +1,7 @@
 .homemenu {
     display: flex;
 }
-.tomenu{
-    display: fixed;
-   
-}
+
 nav {
    
 padding-top: 100px;
