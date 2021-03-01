@@ -21,6 +21,7 @@ text-align: center;
     
 }
 .hoststars{
+    display: flex;
 grid-column: 1;
 grid-row:1;
     border-radius: 100px;
@@ -29,6 +30,7 @@ grid-row:1;
     
 }
 .massdensity{
+    display: flex;
 grid-column: 1;
 grid-row:2;
     border-radius: 100px;
@@ -37,6 +39,7 @@ grid-row:2;
     
 }
 .atmospheretemp{
+    display: flex;
 grid-column: 1;
 grid-row: 3;
     border-radius: 100px;
@@ -45,6 +48,7 @@ grid-row: 3;
     
 }
 .Stability{
+    display: flex;
 grid-column: 1;
 grid-row: 4;
     border-radius: 100px;
