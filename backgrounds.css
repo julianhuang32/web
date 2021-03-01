@@ -98,13 +98,11 @@ grid-row: 4;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;
-    
+    max-width: 100%;
+    height: auto;
 }
     
-.discoverymethods img{ 
-    length: 50%;
-    width: 50%;
-    }
+
     
 .whatisexoplanet{
     grid-column: 2;
@@ -113,14 +111,11 @@ grid-row: 4;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;
-    
+    max-width: 100%;
+    height: auto;
 }
     
-.whatisexoplanet img{
-    length: 50%;
-    width: 50%;
-
-    }
+.
 /* TEXT ON MAINPAGE */
 .mainpage{
 
