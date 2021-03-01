@@ -2,7 +2,7 @@
     display: flex;
 }
 .tomenus{
-    display: fixed;
+    position: fixed;
     top: 30px;
     left: 30px;
     border: white;
