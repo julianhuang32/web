@@ -92,6 +92,8 @@ grid-row: 4;
 }
 .discoverymethods
 {
+    grid-column: 2;
+    grid-row: 1;
     text-align: center;
     border-radius: 100px;
     background-color: lightblue;
@@ -106,6 +108,8 @@ grid-row: 4;
     }
     */
 .whatisexoplanet{
+    grid-column: 2;
+    grid-row: 1;
     text-align: center;
     border-radius: 100px;
     background-color: lightblue;
