@@ -98,8 +98,7 @@ grid-row: 4;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;
-    max-width: 100%;
-    height: auto;
+    
 }
     
 
@@ -111,8 +110,7 @@ grid-row: 4;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;
-    max-width: 100%;
-    height: auto;
+  
 }
     
 .
