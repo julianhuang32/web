@@ -1,16 +1,18 @@
 .homemenu {
     display: flex;
 }
-.tomenu{
+.tomenus{
     display: fixed;
     top: 30px;
     left: 30px;
+    border: white;
+    border-style: double;
 }
-.tomenus{
-    display:fixed;
-    top: 30px;
-    left: 30px;
+.chosen{
+    color: white;
+    font-weight: bold;
 }
+
 nav {
    display: flex;
 padding-top: 100px;
@@ -26,18 +28,7 @@ font-size: 125%;
 
 
 }
-.homemenus ul {
-    list-style-type: none;
-}
 
-.homemenu a::after {
-    display: inline-block;
-    color: WHITE;
-    content: '>';
-    font-size: 80%;
-    font-weight: bold;
-    padding: 0 3px;
-}
 
 h1 , h2{
     color: white;
