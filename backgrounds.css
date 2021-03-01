@@ -1,5 +1,8 @@
-nav {
+.homemenu {
     display: flex;
+}
+nav {
+   
 padding-top: 100px;
 padding-left: 80px;
 padding-bottom: 117px;
@@ -11,9 +14,7 @@ border-length: 50%;
 font-family: Monaco, Monospace;
 font-size: 125%;
 
-.homemenu {
-    display: flex;
-}
+
 }
 .homemenus ul {
     list-style-type: none;
