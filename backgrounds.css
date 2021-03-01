@@ -34,7 +34,11 @@ font-size: 125%;
     padding: 0 3px;
 }
 
-h1 , h2{ color: white;}
+h1 , h2{
+    color: white;
+    text-align: center;
+    font-size: 150%;
+}
 body{
     background-image: url("https://cdn.pixabay.com/photo/2016/02/21/11/33/star-1213455_1280.jpg")
    
@@ -100,7 +104,7 @@ grid-row: 4;
     grid-column: 2;
     grid-row: 1;
     text-align: center;
-    border-radius: 100px;
+    border-radius: 10px;
     background-color: lightblue;
     border: thick solid white;
     
@@ -112,7 +116,7 @@ grid-row: 4;
     grid-column: 2;
     grid-row: 1;
     text-align: center;
-    border-radius: 100px;
+    border-radius: 10px;
     background-color: lightblue;
     border: thick solid white;
   
