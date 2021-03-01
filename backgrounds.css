@@ -1,3 +1,15 @@
+nav {
+    border-bottom: 1px solid black;
+}
+
+.homemenus ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.homemenu {
+    display: inline-block;
+}
 .homemenu a::after {
     display: inline-block;
     color: #000;
