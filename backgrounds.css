@@ -1,5 +1,6 @@
 
-
+body{
+    background-image:
 p {
 font-size: 150%;
 font-family: "Times New Roman", Times, serif;
@@ -17,7 +18,7 @@ text-align: center;
 
 
 }
-.hoststar{
+.hoststars{
 grid-column: 1;
 grid-row:1;
 
