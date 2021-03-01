@@ -1,9 +1,10 @@
 .homemenu {
     display: flex;
 }
-
+.tomenu{
+    display: flex;
 nav {
-   
+   display: flex;
 padding-top: 100px;
 padding-left: 80px;
 padding-bottom: 117px;
