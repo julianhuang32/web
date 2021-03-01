@@ -100,13 +100,12 @@ grid-row: 4;
     border: thick solid white;
     
 }
-    /*
-.discoverymethods *{ 
-    font-size: 150%;
-    font-family: "Times New Roman", Times, serif;
-    text-align: center;
+    
+.discoverymethods img{ 
+    length: 50%;
+    width: 50%;
     }
-    */
+    
 .whatisexoplanet{
     grid-column: 2;
     grid-row: 1;
@@ -116,11 +115,10 @@ grid-row: 4;
     border: thick solid white;
     
 }
-    /*
-.whatisexoplanet *{
-font-size: 150%;
-font-family: "Times New Roman", Times, serif;
-text-align: center;
+    
+.whatisexoplanet img{
+    length: 50%;
+    width: 50%;
 
     }
 /* TEXT ON MAINPAGE */
@@ -136,7 +134,7 @@ font-size: 300%;
 
 
 }
-/*FORMATTING THE LINKS TO SUBPAGES 
+/*FORMATTING THE LINKS TO SUBPAGES */
 .Subpages {
 display: flex;
 padding-top: 100px;
@@ -156,4 +154,4 @@ width: 50%;
 length: 50%;
 }
 }
-*/
+
