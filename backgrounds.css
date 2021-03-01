@@ -98,7 +98,7 @@ grid-row: 4;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;
-    display: flex;
+    
 }
 .discoverymethods *{ 
     font-size: 150%;
@@ -110,12 +110,13 @@ grid-row: 4;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;
-    display: flex;
+    
 }
 .whatisexoplanet *{
 font-size: 150%;
 font-family: "Times New Roman", Times, serif;
 text-align: center;
+
     }
 /* TEXT ON MAINPAGE */
 .mainpage{
