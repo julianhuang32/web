@@ -129,24 +129,3 @@ font-size: 300%;
 
 
 }
-/*FORMATTING THE LINKS TO SUBPAGES */
-.Subpages {
-display: flex;
-padding-top: 100px;
-padding-left: 80px;
-padding-bottom: 117px;
-border: white;
-border-style: inset;
-border-width: 50px;
-border-length: 50%;
-
-font-family: Monaco, Monospace;
-font-size: 125%;
-
-
-img {
-width: 50%;
-length: 50%;
-}
-}
-
