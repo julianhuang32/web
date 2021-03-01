@@ -16,41 +16,41 @@ text-align: center;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-row-gap:100px;
     text-align: center;
-    color: black;
-
+    
 }
 .hoststars{
 grid-column: 1;
 grid-row:1;
-
+    border-radius: 100px;
     background-color: lightblue;
-    border: thick solid black;    
+    border: thick solid white;    
 }
 .massdensity{
 grid-column: 1;
 grid-row:2;
- 
+    border-radius: 100px;
     background-color: lightblue;
-    border: thick solid black;  
+    border: thick solid white;  
 }
 .atmospheretemp{
 grid-column: 1;
 grid-row: 3;
-
+    border-radius: 100px;
     background-color: lightblue;
-    border: thick solid black;
+    border: thick solid white;
 }
 .Stability{
 grid-column: 1;
 grid-row: 4;
+    border-radius: 100px;
     background-color: lightblue;
-    border: thick solid black;
+    border: thick solid white;
 }
 /* TEXT ON MAINPAGE */
 .mainpage{
 
 text-align:center;
-border: thick double black;
+border: thick double white;
 border-radius: 500px;
 padding: 20px 20px 20px 20px;
 
