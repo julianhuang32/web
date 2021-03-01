@@ -13,7 +13,7 @@ text-align: center;
   
   display: grid;
     grid-template-columns: 250px;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 500px 500px 500px 500px;
     grid-row-gap:250px;
     text-align: center;
     
