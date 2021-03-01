@@ -1,10 +1,9 @@
 .homemenu {
     display: flex;
 }
-.tomenus{
+.tomenu{
     display: fixed;
-    top: 50px;
-    left: 50px;
+   
 }
 nav {
    
