@@ -1,6 +1,7 @@
 h1 , h2{ color: white;}
 body{
     background-image: url("https://cdn.pixabay.com/photo/2016/02/21/11/33/star-1213455_1280.jpg")
+        position: fixed;
 }
 p {
 font-size: 150%;
