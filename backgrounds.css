@@ -14,7 +14,7 @@ text-align: center;
   
   display: grid;
     grid-template-columns: 1fr 2fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.6fr 0.5fr 1fr 0.4fr;
     grid-row-gap:250px;
     text-align: center;
     
@@ -27,6 +27,7 @@ grid-row:1;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;  
+    
     
 }
 .massdensity{
@@ -55,6 +56,19 @@ grid-row: 4;
     background-color: lightblue;
     border: thick solid white;
     
+}
+.discoverymethods
+{
+    text-align: center;
+    border-radius: 100px;
+    background-color: lightblue;
+    border: thick solid white;
+}
+.whatisexoplanet{
+    text-align: center;
+    border-radius: 100px;
+    background-color: lightblue;
+    border: thick solid white;
 }
 /* TEXT ON MAINPAGE */
 .mainpage{
