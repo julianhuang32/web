@@ -33,10 +33,11 @@ body{
 
 
 /* CONTENT ON SUBPAGES */
-.content *{
+/*.content *{
     font-size: 150%;
     font-family: "Times New Roman", Times, serif;
     text-align: center;
+*/
 .content{
   
   display: grid;
@@ -95,11 +96,13 @@ grid-row: 4;
     border: thick solid white;
     
 }
+    /*
 .discoverymethods *{ 
     font-size: 150%;
     font-family: "Times New Roman", Times, serif;
     text-align: center;
     }
+    */
 .whatisexoplanet{
     text-align: center;
     border-radius: 100px;
@@ -107,6 +110,7 @@ grid-row: 4;
     border: thick solid white;
     
 }
+    /*
 .whatisexoplanet *{
 font-size: 150%;
 font-family: "Times New Roman", Times, serif;
