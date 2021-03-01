@@ -25,7 +25,7 @@ grid-row:1;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;  
-    margin: 0px 250px 0px 250px;
+    padding: 0px 250px 0px 250px;
 }
 .massdensity{
 grid-column: 1;
@@ -33,7 +33,7 @@ grid-row:2;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white; 
-    margin: 0px 250px 0px 250px;
+    padding: 0px 250px 0px 250px;
 }
 .atmospheretemp{
 grid-column: 1;
@@ -41,7 +41,7 @@ grid-row: 3;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;
-    margin: 0px 250px 0px 250px;
+    padding: 0px 250px 0px 250px;
 }
 .Stability{
 grid-column: 1;
@@ -49,7 +49,7 @@ grid-row: 4;
     border-radius: 100px;
     background-color: lightblue;
     border: thick solid white;
-    margin: 0px 250px 0px 250px;
+    padding: 0px 250px 0px 250px;
 }
 /* TEXT ON MAINPAGE */
 .mainpage{
