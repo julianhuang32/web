@@ -1,4 +1,4 @@
-
+*{ color: white;}
 body{
     background-image: url("https://cdn.pixabay.com/photo/2016/02/21/11/33/star-1213455_1280.jpg")
 }
@@ -10,13 +10,13 @@ text-align: center;
 
 /* CONTENT ON SUBPAGES */
 .content{
-    
+  
   display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-row-gap:100px;
     text-align: center;
-
+    color: black;
 
 }
 .hoststars{
